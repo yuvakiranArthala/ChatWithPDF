@@ -1,0 +1,6 @@
+tiktoken
+openai
+streamlit
+langchain
+faiss-gpu
+faiss-cpu
